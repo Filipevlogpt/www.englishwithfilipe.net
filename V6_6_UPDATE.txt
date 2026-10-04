@@ -1,0 +1,16 @@
+ENGLISH WITH FILIPE — V6.6
+
+This release addresses the requested fixes:
+- Rebuilt localized Story content in EN/PT/RO, including the 9 months section.
+- Language selector now updates the current page, navigation labels, headings, browser title and localized story content.
+- New futuristic/modern Contact design with working Instagram and email actions.
+- 3-Language Bank: 2,500 entries, exactly 500 per level (A1-C1), no repeated English terms.
+- Removed all PT/RO dash placeholders from the 3-Language Bank.
+- Corrected malformed Portuguese fragments that had entered the English field in part of the B1 data.
+- Added Romanian translations for previously blank entries and retained proper names as proper names.
+- Added a visual refresh for navigation, cards, hero and surfaces while keeping the green/yellow brand direction.
+
+Validation:
+- JavaScript syntax valid.
+- All JSON files valid.
+- HTTP server returns 200 for /, /trilingual.json, /explanations.json, /quizzes.json and /vocab.json.

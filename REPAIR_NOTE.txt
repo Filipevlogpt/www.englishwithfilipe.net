@@ -1,0 +1,3 @@
+English with Filipe V6.2 REPAIRED
+This package was extracted from V6.2 and repaired after runtime validation.
+Contact, language routing, Story spacing, and defensive runtime fallbacks were checked.

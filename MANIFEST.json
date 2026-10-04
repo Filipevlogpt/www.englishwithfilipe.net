@@ -1,0 +1,20 @@
+{
+  "product": "English with Filipe",
+  "version": "V6",
+  "tests_per_level": 510,
+  "levels": {
+    "A1": 510,
+    "A2": 510,
+    "B1": 510,
+    "B2": 510,
+    "C1": 510
+  },
+  "total_tests": 2550,
+  "questions_per_test": 10,
+  "total_questions": 25500,
+  "choices_per_question": 5,
+  "vocab_unique": 978,
+  "explanations": 23,
+  "trilingual_entries": 245,
+  "test_design": "Original AI-generated content using Cambridge-inspired task types; not official Cambridge material."
+}

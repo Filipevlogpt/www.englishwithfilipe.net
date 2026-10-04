@@ -1,0 +1,18 @@
+English with Filipe V6.1
+
+This update preserves the V6 learning database and tests and improves:
+- Contact tab with Instagram and direct email links.
+- Full interface language switching for English, Portuguese and Romanian.
+- Current page is preserved when changing language.
+- Story "9 months" spacing and typography refined.
+- Vocabulary type/topic chips refined visually.
+- Explanations show the selected interface language while keeping English terms/examples.
+- Contact links:
+  Instagram: https://www.instagram.com/filipevlogpt/
+  Email: mailto:Filipevlogpt@hotmail.com
+
+Run:
+  python start_server.py
+
+Then open:
+  http://localhost:8000
