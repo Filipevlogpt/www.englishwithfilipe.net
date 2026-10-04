@@ -2,17 +2,6 @@ ENGLISH WITH FILIPE — V4
 
 Start:
   python start_server.py
-Then open:
-  http://localhost:8000
-
-Teacher demo:
-  Email: teacher@englishwithfilipe.com
-  Password: Filipe2026!
-
-Student demo:
-  Email: student@englishwithfilipe.com
-  Password: English123!
-
 Features:
 - English with Filipe branded interface
 - A1 red / A2 green / B1 yellow / B2 orange / C1 black
